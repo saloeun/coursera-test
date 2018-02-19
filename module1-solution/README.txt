@@ -1,0 +1,1 @@
+This does not count empty strings before, between, or after comma
